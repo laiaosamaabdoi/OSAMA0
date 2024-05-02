@@ -1,1 +1,10 @@
-OOsamah
+{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v20.10", "com.glwhatsapp": "https://osamadotcom.blogspot.com/2022/12/whatsapp-galaxy-gwhatsapp.html", "com.glwhatsapp2": "https://osamadotcom.blogspot.com/2022/12/whatsapp-galaxy-gwhatsapp.html", "com.glwhatsapp3": "https://osamadotcom.blogspot.com/2022/12/whatsapp-galaxy-gwhatsapp.html", "com.glwhatsapp4": "https://osamadotcom.blogspot.com/2022/12/whatsapp-galaxy-gwhatsapp.html", "com.mbwhatsapp": "https://osamadotcom.blogspot.com/2022/12/whatsapp-galaxy-gwhatsapp.html", "update_message": " 
+<p>Update Vتحديث « 20.10</p>
+<li>تحديث جديد ممتع</li>
+<li>يحتوي على العديد من المزايا الجديد الرائعة</li>
+<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
+
+<li>new update</li>
+<li>It contains many great new features</li>
+<li>More important fixes and improvements</li>
+" } }
